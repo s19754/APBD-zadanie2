@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XYZExporter": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\export_xyz \"C:\\Users\\Tomek\\Desktop\\PJATK\\VI-sem\\APBD\\cwiczenia2_mp-s19754\\Zadanie 1\\dane.csv\" json"
+    }
+  }
+}
